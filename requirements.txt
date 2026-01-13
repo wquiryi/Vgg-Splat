@@ -1,0 +1,23 @@
+numpy==1.26.1
+Pillow
+huggingface_hub
+einops
+safetensors
+gradio==5.17.1
+gradio_imageslider
+viser==0.2.23
+tqdm
+opencv-python==4.10
+hydra-core
+omegaconf
+opencv-python
+scipy
+onnxruntime
+requests
+trimesh
+matplotlib
+pydantic==2.10.6
+# feel free to skip the dependencies below if you do not need demo_colmap.py
+pycolmap==3.10.0
+pyceres==2.3
+git+https://github.com/jytime/LightGlue.git#egg=lightglue
