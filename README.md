@@ -81,10 +81,7 @@ python pipeline.py --scene_dir path/to/your/scene
 
 ### Reconstruction Comparison (Fern Dataset)
 
-| Baseline (3DGS) | Ours (Vgg-Splat) |
-|----------------|------------------|
-| ![](comparison_baseline.png) | ![](comparison_ours.png) |
-
+![Comparison](comparison.png)
 ## 3. Core Features
 
 * **VGGT-based Reconstruction**
